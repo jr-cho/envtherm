@@ -5,8 +5,6 @@ the modeling assumptions, parameters, and methodologies used in this project.
 
 ---
 
-## Building Physics & Heat Transfer
-
 ### [Title of Resource]
 - **Type:** Journal Article | Textbook | Technical Report | Video | Lecture
 - **Author(s):**
