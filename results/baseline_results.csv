@@ -1,0 +1,4 @@
+material,cooling_load_W,cooling_load_kW,R_value_m2K_W
+Brick,8250.0,8.25,0.2
+Concrete,10525.0,10.525,0.11764705882352942
+Copper,1256250.0,1256.25,0.0005194805194805195
