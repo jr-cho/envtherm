@@ -1,3 +1,6 @@
+# Ignore final reports
+docs/report.tex
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

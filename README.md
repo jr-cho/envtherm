@@ -1,14 +1,16 @@
+---
+title: Untitled
+author: Joshua Gottus
+date: 2025-12-18T00:29:11Z
+---
+
 # envtherm
 
 Building Envelope Analysis for Cooling Optimization
 
-This repository contains a Python based simulation framework for analyzing
-the influence of building envelope material properties on cooling performance
-in small data centers.
+This repository contains a Python based simulation framework for analyzing the influence of building envelope material properties on cooling performance in small data centers.
 
-The model applies steady state heat transfer principles to evaluate how
-material conductivity, thickness, and envelope configuration affect cooling
-loads under defined indoor and outdoor conditions.
+The model applies steady state heat transfer principles to evaluate how material conductivity, thickness, and envelope configuration affect cooling loads under defined indoor and outdoor conditions.
 
 ## Scope
 - Small data centers

@@ -1,3 +1,9 @@
+---
+title: Untitled
+author: Joshua Gottus
+date: 2025-12-18T00:32:27Z
+---
+
 # Modeling Assumptions
 
 1. Steady state thermal conditions are assumed.
