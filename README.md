@@ -1,9 +1,3 @@
----
-title: Untitled
-author: Joshua Gottus
-date: 2025-12-18T00:29:11Z
----
-
 # envtherm
 
 Building Envelope Analysis for Cooling Optimization
